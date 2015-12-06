@@ -1,0 +1,10 @@
+a9b0d7,::1,GET,http://localhost/Symfony/web/app_dev.php/,1449257900,,200
+d60b94,::1,GET,http://localhost/Symfony/web/app_dev.php/,1449257901,,200
+964c99,::1,GET,http://localhost/Symfony/web/app_dev.php/_profiler,1449265072,,301
+7d4beb,::1,GET,http://localhost/Symfony/web/app_dev.php/_profiler,1449265170,,301
+cc4be2,::1,GET,http://localhost/Symfony/web/app_dev.php/pagequinexistepas,1449265224,5a9a09,200
+5a9a09,::1,GET,http://localhost/Symfony/web/app_dev.php/pagequinexistepas,1449265224,,404
+139e84,::1,GET,http://localhost/Symfony/web/app_dev.php/pagequinexistepas,1449265478,8f6ba5,200
+8f6ba5,::1,GET,http://localhost/Symfony/web/app_dev.php/pagequinexistepas,1449265479,,404
+270212,::1,GET,http://localhost/Symfony/web/app_dev.php/,1449266075,,200
+2f36a0,::1,GET,http://localhost/Symfony/web/app_dev.php/,1449266098,,200
